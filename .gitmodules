@@ -1,0 +1,3 @@
+[submodule "alci-clamares-config"]
+	path = alci-calamares-config
+	url = ../alci-calamares-config.git
