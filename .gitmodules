@@ -1,3 +1,3 @@
-[submodule "alci-clamares-config"]
-    path = alci-calamares-config
-    url = ../alci-calamares-config.git
+[submodule "alci-calamares-config"]
+	path = alci-calamares-config
+	url = https://github.com/DeltaCopy/alci-calamares-config.git
